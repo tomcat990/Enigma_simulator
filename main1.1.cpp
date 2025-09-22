@@ -62,7 +62,6 @@ int main(){
 
 	//input
 	int tries=0;
-	vector<char> input;
 	char ch;
 	vector<char> output;
 	while((ch=cin.get())!= '\n'){
